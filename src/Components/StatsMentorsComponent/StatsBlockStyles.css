@@ -1,0 +1,28 @@
+
+
+.stat-blocks-title{
+    padding: 20px;
+    font-size: 1.1rem; background-color: #FFF;
+}
+
+.stat-blocks{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #FFF;
+    padding: 0 10px 20px 10px;
+}
+
+.stats-block-container{
+    width: 27%;
+    height: 17vh;
+    background-color: rgb(228, 233, 237);
+
+}
+.stats-block-name{
+    font-size: 1.7rem;
+    padding: 15px 0 30px 10px;
+}
+.stats-block-des{
+    font-size: 1rem;
+    padding: 0 10px 25px 10px;
+}

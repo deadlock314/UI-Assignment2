@@ -1,0 +1,26 @@
+
+.main-container{
+   background-color: #FFF;
+   display: flex;
+   flex-direction: column;
+   padding: 10px;
+   padding-bottom: 20px;
+   margin-bottom: 20px;
+
+}
+.title-btn-container{
+   display: flex;
+   justify-content: space-between;
+   padding: 10px 10px 0 10px;
+   }
+
+.main-card-container{
+display: flex;
+margin-left: 1.5vw;
+justify-content: space-around;
+
+}
+.container-title{
+   font-size: 1.05rem;
+   padding-bottom: 20px;
+}

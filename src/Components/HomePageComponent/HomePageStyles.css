@@ -1,0 +1,28 @@
+
+.homepage-container{
+ padding: 1.5vw;
+}
+.homepage-upper-container{
+    padding: 5px 0 25px 2.5vw;
+}
+.homepage-lower-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.homepage-title{
+  
+    font-size: 1.2rem;
+}
+
+.homepage-question{
+    margin-top: 10px;
+    font-size: 1.1rem;
+}
+.left-side{
+    width: 60vw;
+    margin-right: 1.5vw;
+}
+.rigth-side{
+    width: 40vw;
+}
