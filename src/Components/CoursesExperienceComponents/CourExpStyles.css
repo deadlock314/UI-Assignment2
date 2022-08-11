@@ -4,8 +4,8 @@
    display: flex;
    flex-direction: column;
    padding: 10px;
-   padding-bottom: 20px;
-   margin-bottom: 20px;
+   padding-bottom: 30px;
+   margin-bottom: 30px;
 
 }
 .title-btn-container{
@@ -23,4 +23,30 @@ justify-content: space-around;
 .container-title{
    font-size: 1.05rem;
    padding-bottom: 20px;
+}
+
+@media (max-width: 875px) {
+   #courses{
+      display: none;
+   }
+
+   .main-container{
+      background-color: #FFF;
+      display: flex;
+      flex-direction: column;
+      padding: 10px;
+      padding-bottom: 20px;
+      margin-bottom: 0px;
+   
+   }
+   .container-title{
+      font-size: 0.9rem;
+      padding-bottom: 20px;
+   }
+   .main-card-container{
+      margin: 0;
+      justify-content: space-between;
+   }
+        
+      
 }

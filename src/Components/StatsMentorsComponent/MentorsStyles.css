@@ -6,3 +6,17 @@
     font-size: 1.1rem;
     padding: 20px;
 }
+
+@media (max-width: 875px){
+.mentor-container{
+    display: grid ;
+    grid-template-columns: 50% 50%;
+}
+.main-mentor-container h3{
+    font-size: 0.9rem;
+    padding: 20px;
+}
+.main-mentor-container{
+    margin-top: 15px;
+}
+}

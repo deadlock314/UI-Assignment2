@@ -8,7 +8,7 @@ const StatsBlock = () => {
 
    return (
 
-      <div classname="stat-blocks-main-container">
+      <div classname="blocks-main-container">
          <h2 className="stat-blocks-title">Your Stats</h2>
          <div className="stat-blocks">
             {

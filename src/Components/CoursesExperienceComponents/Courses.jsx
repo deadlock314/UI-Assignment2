@@ -9,7 +9,7 @@ const Courses=()=> {
 
    
 
-       <div className="main-container">
+       <div id="courses" className="main-container">
        <div className="title-btn-container">
        <h2 className="container-title">Your Upcoming classes of courses</h2>
        <p>see all</p>

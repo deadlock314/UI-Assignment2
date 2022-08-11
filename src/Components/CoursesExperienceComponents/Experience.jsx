@@ -7,7 +7,7 @@ const Experience=()=> {
 
     return ( 
 
-       <div className="main-container">
+       <div  className="main-container">
        <div className="title-btn-container">
        <h1 className="container-title">Your Upcoming Experience</h1>
        <p>see all</p>
