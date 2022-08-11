@@ -31,16 +31,12 @@ justify-content: space-around;
    }
 
    .main-container{
-      background-color: #FFF;
-      display: flex;
-      flex-direction: column;
-      padding: 10px;
       padding-bottom: 20px;
       margin-bottom: 0px;
    
    }
    .container-title{
-      font-size: 0.9rem;
+      font-size: 0.87rem;
       padding-bottom: 20px;
    }
    .main-card-container{
